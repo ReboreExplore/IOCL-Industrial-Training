@@ -35,6 +35,7 @@ _and many more such basic as well as important applications._
 
 _fig: Pressure Gauge_
 </br>
+
 These pressure gauges are installed anywhere on the machine where pressure needs to be monitored—especially if sub-circuits operate at a pressure rate different from pump pressure. Similarly pneumatic and compressed air systems are also rife with gauges, as pressure is also measured in many locations throughout the system. Typically, pneumatic pressure gauges are rated for not much more than 300 psi(typical systems run at around 100 psi) and Hydraulic pressure gauges are available to measure up to 10,000 psi(typical systems run at around 3000-5000 psi).
 * There are many types of gauge styles, the most common being Bourdon tubes and bellow gauges. Bourdon tubes function by taking the pressure and converting it into mechanical energy. This energy moves a dial in the gauge, displaying the current amount of pressure in the system. Typical pressure is around 3-15 psi and the output current is calibrated to 4mA-20mA.
 </br>
