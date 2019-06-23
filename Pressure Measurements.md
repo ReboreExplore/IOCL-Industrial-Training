@@ -40,9 +40,11 @@ These pressure gauges are installed anywhere on the machine where pressure needs
 </br>
 <img src ="images/Inside_Pressure%20Gauge.jpg" width ="300">
 
-_fig:Cross Section of a Pressure Gauge_
+_fig: Cross Section of a Pressure Gauge_
 </br>
+
 Bourdon tube operation is simple. They consist of a semicircular and flat tube of metal, fixed at one end and attached to a sensitive lever mechanism at the other. As pressure increases inside the tube, the force of the fluid attempts to straighten out the curved tube. The tube then pulls away from the lever, which being connected to the needle on the display, shows the pressure at the fluid port.
+</br>
 <img src ="images/Labelled%20Diagram%20of%20a%20Bourdon%20Tube.jpg" width ="300">
 
-_fig:Labelled Diagram of a Bourdon Tube_
+_fig: Labelled Diagram of a Bourdon Tube_
