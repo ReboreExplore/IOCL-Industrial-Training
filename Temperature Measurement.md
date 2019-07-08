@@ -49,7 +49,7 @@ relation is established by calibration
 so you can use the device as a
 thermometer.
 
- <img src="images/Bimettalic Strip.PNG" width ="400">
+ <img src="images/Bimettalic Strip.png" width ="400">
 
  *Fig: Bimetallic Strip*
 
