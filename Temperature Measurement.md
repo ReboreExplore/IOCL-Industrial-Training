@@ -173,4 +173,4 @@ The temperature transmitter's role is to isolate the temperature signal, filter 
 
 <img src="images/Temperature Transmitter.jpg" width ="300">
 
-*Fig : Temperature Transmitter
+*Fig : Temperature Transmitter*
