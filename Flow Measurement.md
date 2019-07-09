@@ -107,11 +107,19 @@ throat section where the velocity is constant so that the decreased pressure hea
 
   ___Construction___
 
+<<<<<<< HEAD
   <img src="images/Construction Rotameter.PNG" width ="300">
 
 * Fluid enters from the bottom of the tapered tube, then some of the fluid strikes directly into the float bottom and others pass aside the float. Now the float experience two forces in opposite direction, darg force upward and gravitational force downward.
 
 <img src="images/Working Rotameter.PNG" width ="300">
+=======
+  <img src="images/Construction Rotameter.png" width ="300">
+
+* Fluid enters from the bottom of the tapered tube, then some of the fluid strikes directly into the float bottom and others pass aside the float. Now the float experience two forces in opposite direction, darg force upward and gravitational force downward.
+
+<img src="images/Working Rotameter.png" width ="300">
+>>>>>>> Change Folder
 
 * Fluid flow moves the float upward against gravity.
 * At some point, the flowing area reaches a point where the pressure-induced force on the floating body exactly matches the weight of the float.
@@ -136,6 +144,10 @@ To obtain maximum accuracy a temperature sensor [either integral to the ultrason
 
 Dead span (the distance measured from the face of the sensor in which sensor exhibits degraded performance) is typically 1-foot [0.3048 m], while the range for flow measurement sensors is typically up to 11-feet [3.353 m].   
 
+<<<<<<< HEAD
 <img src="images/Ultrasonic%20Sensor.PNG" width ="300">
+=======
+<img src="images/Ultrasonic Sensor.png" width ="300">
+>>>>>>> Change Folder
 
 *Fig: Flow Measurements Using Ultrasonic Sensor*
