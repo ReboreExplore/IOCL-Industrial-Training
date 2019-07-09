@@ -74,7 +74,7 @@ the applied heat
 * Very accurate temperature vs resistance
 characteristics and reproducible
 * Excellent interchangeability and stability
-* Can be used ass a temperature standard
+* Can be used as a temperature standard
 
 <img src="images/RTD.PNG" width ="200">
 
