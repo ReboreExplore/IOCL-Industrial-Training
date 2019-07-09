@@ -56,7 +56,7 @@ There are three types of orifice plates namely
 
  *Fig : Sketch of Orifices of Different Types*
 
-**Venturi Tubes**
+* **Venturi Tubes**
 
 Venturi tubes are differential pressure producers, based on Bernoulli’s Theorem. General performance and calculations are similar to those for orifice plates. In these devices, there is a
 continuous contact between the fluid flow and the surface of the primary device.
@@ -93,25 +93,25 @@ throat section where the velocity is constant so that the decreased pressure hea
 
   As the above relationship is non-linear, it is necessary to make the current of the transmitters as a linear one. For the purpose of linearizing the current, the square root extractor, which may be built-in or externally added, is used.
 
-    <img src="images/Differential-Pressure Transmitter.jpg" width ="300">
+<img src="images/Differential-Pressure Transmitter.jpg" width ="300">
 
-    *Fig: Differential Pressure Transmitter*
+*Fig: Differential Pressure Transmitter*
 
-    **Rotameter**
+* **Rotameter**
 
   Rotameter is variable area flowmeter used to measure fluid flow. It works on the principle of upthrust force exerted by fluid and force of gravity. The buoyant force exerted on an immersed object is equal to the weight of liquid displaced by the object. Under this principle, the rotameter works with float-tapered tube system.
 
-    <img src="images/Rotameter.jpg" width ="300">
+  <img src="images/Rotameter.jpg" width ="300">
 
-    *Fig: Rotameter*
+  *Fig: Rotameter*
 
-    ___Construction___
+  ___Construction___
 
-      <img src="images/Construction Rotameter.png" width ="300">
+  <img src="images/Construction Rotameter.png" width ="300">
 
 * Fluid enters from the bottom of the tapered tube, then some of the fluid strikes directly into the float bottom and others pass aside the float. Now the float experience two forces in opposite direction, darg force upward and gravitational force downward.
 
-    <img src="images/Working Rotameter.png" width ="300">
+<img src="images/Working Rotameter.png" width ="300">
 
 * Fluid flow moves the float upward against gravity.
 * At some point, the flowing area reaches a point where the pressure-induced force on the floating body exactly matches the weight of the float.
@@ -119,7 +119,7 @@ throat section where the velocity is constant so that the decreased pressure hea
 
 * As the float weight and gravity are constant, the distance float displaced upward is proportional to the flow velocity of the fluid passing through the tapered tube.
 
-**Ultrasonic Flowmeter**
+* **Ultrasonic Flowmeter**
 
 Ultrasonic flow meters measure the level in a channel by transmitting a pulse of sound from the face of the sensor to the surface of the flow stream and measuring the time for the echo to return.  The transit time corresponds to the distance between the face of the sensor and the surface of the water.
 
