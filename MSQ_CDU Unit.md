@@ -1,4 +1,4 @@
-# CDU Unit of the Refinery
+# CDU AND MSQ Unit of the Refinery
 
 The production of the valuable petroleum products of the refinery goes through a series of different **primary** and **secondary** processing units along with the associated **auxiliary facilities** like Captive Power Plant installed within the refinery.
 
@@ -9,6 +9,22 @@ The primary unit of the Refinery is the Crude Distillation Unit (CDU).In this un
 Here the lighter gases, LPG and unstabilized gasoline are separated. The outputs from CDU are *gasoline, Kero-I, Kero-II and Straight Run Gas Oil*. *Reduced Coke Oil (RCO)* which is the bottom product from the main fractionating column, forms the main raw material for Coking unit and INDMAX. In Naphtha Splitter section, total Straight Run Naphtha is separated into three different fractions namely Light Naphtha (LN), Reformate Naphtha (RN) and Heavy Naphtha (HN).
 
 As instrumentation engineers we usually don't deal with the core chemical processes involved in the Crude Distillation Unit rather we do the control operations using PLC(Programmable Logic Controller) and DCS(Distributed Control System).
+
+***Operation of the Motor Spirit Quality Unit***
+
+ *Objective* :
+
+ * To split INDMAX gasoline and Wild Naphtha in the 3 cuts splitter and separate a heart cut stream .
+ * To increase RON of Hydrotreated light naphtha cut in the Isomerization Unit.
+ * To treat in NHDT , a mix of light naphtha heart cut from 3 cut splitter and straight Run Light naphtha in order to produce a sulphur free stable naphtha to feed the isomerization unit.
+
+  NHDT SECTION : Purpose of this Naphtha Hydro desulphurization Unit is to protect Isomerization catalyst by eliminating or reducing to an acceptable level the impurity of naphtha . There are basically 2 fundamental reaction involve in this:
+
+  1. Hydro refining
+  2. Hydro generation HYROREFINING  DESULPHURIZATION
+
+
+As instrumentation engineers we usually don't deal with the core chemical processes involved in the Crude Distillation Unit and Motor Spirit Quality Unit rather we do the control operations using PLC(Programmable Logic Controller) and DCS(Distributed Control System).
 
 ###  ***Programmable Logic Controller***
 
@@ -95,6 +111,10 @@ The PLC Programming in Guwahati Refinery is done via Functional Block Programmin
  The DCS s generally control and manage the *core* processes ( for eg. food, pharmaceutical, refining, etc.). PLCs are used to control *non-core* process functions including material handling, water treatment, motor controls, balance of plant operations, air compressor controls, packaging, and other functions.
 
  So DCS is distributed control and centralized monitoring system. In a Distributed Control System, the control function is distributed, but the monitoring is still centralized. All the n field inputs are not fed to a single CPU. Instead they are distributed among multiple CPU’s. In DCS terminology, CPU’s are referred as Field Control Stations (FCS).
+
+ <img src="images/DCS and Field.PNG" width="550">
+
+ *Fig :Communication Between Field Instruments and PLC/DCS*
 
  ***Advantages of Distributed Control System***
 
